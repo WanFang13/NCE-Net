@@ -24,9 +24,11 @@ To train, test and evaluate NCE-Net, you can simply run:
 
 If you find this repository useful for your publications, please consider citing our paper.
 
+```angular2html
 @article{wan2021ncenet,
     title={Nearest Neighbor Classifier Embedded Network for Active Learning},
     author={Fang Wan, Tianning Yuan, Mengying Fu, Xiangyang Ji, Qingming Huang and Qixiang Ye}
     booktitle = {AAAI 2021},
     year = {2021}
 }
+```
