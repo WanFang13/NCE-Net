@@ -16,11 +16,9 @@ Code for "Nearest Neighbor Classifier Embedded Network for Active Learning", AAA
     
 To train, test and evaluate NCE-Net, you can simply run:
  
-    ```bash
-    
-    python main.py
-    
-    ```
+```bash
+python main.py
+```
 
 If you find this repository useful for your publications, please consider citing our paper.
 
